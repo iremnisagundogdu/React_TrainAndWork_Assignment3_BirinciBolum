@@ -1,0 +1,190 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "categoryId":1,
+            "name": "SK-700-04d 4 İplik Overlok Makinası",
+            "price": {
+                "oldPrice": 1965.00,
+                "newPrice": 1908.00
+            },
+            "discount": 22,
+            "img": {
+                "singleImage": "img/products/product1/1.png",
+                "thumbs": [
+                    "img/products/product1/1.png",
+                    "img/products/product1/2.png",
+                    "img/products/product1/3.png",
+                    "img/products/product1/2.png"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "TI-D4-Düz Dikiş Makinası",
+            "categoryId":2,
+            "price": {
+                "oldPrice": 2008.00,
+                "newPrice": 2000
+            },
+            "discount": 33,
+            "img": {
+                "singleImage": "img/products/product2/1.jpg",
+                "thumbs": [
+                    "img/products/product2/1.jpg",
+                    "img/products/product2/2.jpg",
+                    "img/products/product2/3.jpg"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "categoryId":3,
+            "name": "MF-7926 Soldan Bıçaklı Reçme Makinası",
+            "price": {
+                "oldPrice": 1265.00,
+                "newPrice": 898.00
+            },
+            "discount": 90,
+            "img": {
+                "singleImage": "img/products/product3/1.png",
+                "thumbs": [
+                    "img/products/product3/1.png",
+                    "img/products/product3/2.png",
+                    "img/products/product3/3.png"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "categoryId":4,
+            "name": "04-GT Lok Makinası",
+            "price": {
+                "oldPrice": 2765.00,
+                "newPrice": 2708.00
+            },
+            "discount": 40,
+            "img": {
+                "singleImage": "img/products/product4/1.png",
+                "thumbs": [
+                    "img/products/product4/1.png",
+                    "img/products/product4/2.png",
+                    "img/products/product4/3.png"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "categoryId":5,
+            "name": "M49-D-12 İlik-Düğme Makinası",
+            "price": {
+                "oldPrice": 3965.00,
+                "newPrice": 3562.00
+            },
+            "discount": 40,
+            "img": {
+                "singleImage": "img/products/product5/1.png",
+                "thumbs": [
+                    "img/products/product5/1.png",
+                    "img/products/product5/2.png",
+                    "img/products/product5/3.png"
+                ]
+            }
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Overlok Makinaları",
+            "img":"img/categories/categories1.png",
+            "description": "Çeşitli overlok makinalarını keşfedin, hızlı ve profesyonel dikişler için ideal."
+        },
+        {
+            "id": 2,
+            "name": "Düz Dikiş Makinaları",
+            "img":"img/categories/categories2.png",
+            "description": "Basit ve düz dikişler için kullanılan güvenilir ve dayanıklı makinalar."
+        },
+        {
+            "id": 3,
+            "name": "Reçme Makinaları",
+            "img":"img/categories/categories3.png",
+            "description": "Kenar temizleme ve süsleme işlemleri için reçme makinaları."
+        },
+        {
+            "id": 4,
+            "name": "Lok Makinaları",
+            "img":"img/categories/categories4.png",
+            "description": "Yüksek kaliteli lok dikişleri için profesyonel makinalar."
+        },
+        {
+            "id": 5,
+            "name": "İlik-Düğme Makinaları",
+            "img":"img/categories/categories5.png",
+            "description": "İlik açma ve düğme dikme işlemleri için özel olarak tasarlanmış makinalar."
+        },
+        {
+            "id": 6,
+            "name": "İplik",
+            "img":"img/categories/categories7.png",
+            "description": "iplik"
+        }
+    ],
+
+    "blogs": [
+        {
+            "id": 1,
+            "name": "Dikiş Makinesi Seçerken Nelere Dikkat Edilmeli?",
+            "img":"img/blogs/blog1.jpg"
+            
+        },
+        {
+            "id": 2,
+            "name": "Evde Dikiş Projeleri için En İyi 5 Dikiş Makinesi",
+            "img":"img/blogs/blog6.jpg"
+           
+        },
+        {
+            "id": 3,
+            "name": "Dikiş Makinelerinde Sık Karşılaşılan Sorunlar ve Çözümleri",
+            "img":"img/blogs/blog3.jpg"
+           
+        }
+        
+        
+    ],
+
+    "brands": [
+        {
+            "id": 1,
+            "name": "Brother",
+            "img":"img/brands/brand1.png"
+            
+        },
+        {
+            "id": 2,
+            "name": "Janome",
+            "img":"img/brands/brand2.png"
+           
+        },
+        {
+            "id": 3,
+            "name": "Juki",
+            "img":"img/brands/brand3.png"
+           
+        },
+        {
+            "id": 4,
+            "name": "Silter",
+            "img":"img/brands/brand4.jpg"
+            
+        },
+        {
+            "id": 5,
+            "name": "Typcal",
+            "img":"img/brands/typcal.png"
+            
+        }
+        
+    ]
+}
